@@ -1,3 +1,4 @@
+#has filename and folders that need not be pushed to git
 venv/
 __pycache__/
 .env
